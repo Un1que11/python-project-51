@@ -1,5 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Un1que11/python-project-51/workflows/hexlet-check/badge.svg)](https://github.com/Un1que11/python-project-51/actions)
+[![project-check](https://github.com/Un1que11/python-project-51/actions/workflows/project-check.yml/badge.svg)](https://github.com/Un1que11/python-project-51/actions/workflows/project-check.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/41a0a1fb7641b6cb4fe7/maintainability)](https://codeclimate.com/github/Un1que11/python-project-51/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/41a0a1fb7641b6cb4fe7/test_coverage)](https://codeclimate.com/github/Un1que11/python-project-51/test_coverage)
 
