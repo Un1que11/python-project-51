@@ -13,6 +13,8 @@ page-loader = "page_loader.scripts.page_loader:main"
 [tool.poetry.dependencies]
 python = "^3.10"
 requests = "^2.28.1"
+bs4 = "^0.0.1"
+progress = "^1.6"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^5.0.4"
