@@ -10,7 +10,7 @@ CONFIG_DICT = {
             'datefmt': '%Y-%m-%d %H:%M:%S',
         },
         'advanced': {
-            'format': '%(asctime)s | [%(levelname)s] %(name)s [%(funcName)s:%(lineno)d]: %(message)s',
+            'format': '%(asctime)s | [%(levelname)s] %(name)s [%(funcName)s:%(lineno)d]: %(message)s',  # noqa: E501
         },
     },
 
