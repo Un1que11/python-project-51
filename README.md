@@ -24,5 +24,4 @@ Clone repository and use poetry:
     make build
     make package-install
 ## Work process:
-* path to the downloaded file:
-[![asciicast](https://asciinema.org/a/qCoL09dg1W5JjaX9uBvl0tfdW.svg)](https://asciinema.org/a/qCoL09dg1W5JjaX9uBvl0tfdW)
+[![asciicast](https://asciinema.org/a/t8DJKJXzg23rNaFMWFNr7JNph.svg)](https://asciinema.org/a/t8DJKJXzg23rNaFMWFNr7JNph)
